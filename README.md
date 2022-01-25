@@ -4,7 +4,7 @@ Kaggle : https://www.kaggle.com/ardamavi/sign-language-digits-dataset
 
 It's a multi label classification project, aiming to classify sign language digits. 
 
-![image](https://user-images.githubusercontent.com/62259863/150985780-eb3a6e4b-97f6-497c-aad1-41fdb905f4a1.png)
+![image](https://user-images.githubusercontent.com/62259863/150986112-fe2af058-a3a0-400c-84b2-fc5403bf18c6.png)
 
 I first tried with classical machine learning models such as :
 - LogisticRegression
